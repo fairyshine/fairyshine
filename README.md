@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![fairyshine's GitHub stats](https://github-readme-stats.vercel.app/api?username=fairyshine)](https://github.com/anuraghazra/github-readme-stats)
+[![fairyshine's GitHub stats](https://github-readme-stats.vercel.app/api?username=fairyshine&hide=commits)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
