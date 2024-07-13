@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there 👋
+
+I am interested in machine learning and specialize in NLP and multimodality.
+
+## Python Package: ToolAgent
+Here is our open-source LLM agent framework with tool learning https://github.com/fairyshine/Open-Tool-Learning .
+
+## Coding Stats
 
 [![fairyshine's GitHub stats](https://github-readme-stats.vercel.app/api?username=fairyshine)](https://github.com/anuraghazra/github-readme-stats)
 
