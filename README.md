@@ -5,7 +5,7 @@ I am interested in machine learning and specialize in NLP and multimodality.
 ## II Package 🎉
 ### - ToolAgent (Python)
 Here is our open-source LLM agent framework with tool learning.
-https://github.com/fairyshine/Open-Tool-Learning .
+https://github.com/NoobNLP/ToolAgent .
 
 ## III Methodology 🚀
 ### - TableEE 
