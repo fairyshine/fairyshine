@@ -1,23 +1,24 @@
-## I Hi there 👋
+# I Hi there 👋
 
 I am interested in machine learning and specialize in NLP and multimodality.
 
-## II Package 🎉
+# II Research 🔍
+## Package 🎉
 ### - ToolAgent (Python)
 Here is our open-source LLM agent framework with tool learning.
 https://github.com/NoobNLP/ToolAgent .
 
-## III Methodology 🚀
+## Methodology 🚀
 ### - TableEE 
 Doc Event Extraction method for documentray with tables.
 https://github.com/fairyshine/TableEE
 
-## IV Dataset 📄
+## Dataset 📄
 ### - Seal-Tools
 Tool Learning Dataset for fine-tuning and benchmark.
 https://github.com/fairyshine/Seal-Tools
 
-## V Coding Stats 💻
+# III Coding Stats 💻
 
 [![fairyshine's GitHub stats](https://github-readme-stats.vercel.app/api?username=fairyshine)](https://github.com/anuraghazra/github-readme-stats)
 
