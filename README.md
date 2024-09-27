@@ -3,7 +3,7 @@
 I am interested in machine learning and specialize in NLP and multimodality.
 
 # II Software 🎯
-### FastMindAPI (Python)
+### - FastMindAPI (Python)
 An easy-to-use, high-performance(?) backend for serving LLMs and other AI models, built on FastAPI.
 https://github.com/fairyshine/FastMindAPI
 
