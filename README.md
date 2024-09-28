@@ -11,9 +11,9 @@ https://github.com/fairyshine/FastMindAPI
 # III Research 🔍
 ## Package 🎉
 ### - WillMindS
-Build your experiment environment efficiently with logger, parameter management, code backup, algorithms, and so on.
+Efficiently set up your experimental environment with features such as logging, parameter management, code backup, and algorithms.
 
-Waiting for Open-Source.
+https://github.com/fairyshine/WillMindS.AI
 
 ## Methodology 🚀
 ### - TableEE 
@@ -26,9 +26,6 @@ https://github.com/fairyshine/TableEE
 Tool Learning Dataset for fine-tuning and benchmark.
 
 https://github.com/fairyshine/Seal-Tools
-
-
-
 
 # IV Coding Stats 💻
 
