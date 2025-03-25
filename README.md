@@ -10,7 +10,7 @@ https://github.com/fairyshine/FastMindAPI
 
 # III Research 🔍
 ## Package 🎉
-### - WillMindS
+### - WillMindS.AI
 Efficiently set up your experimental environment with features such as logging, parameter management, code backup, and algorithms.
 
 https://github.com/fairyshine/WillMindS.AI
@@ -20,6 +20,11 @@ https://github.com/fairyshine/WillMindS.AI
 Doc Event Extraction method for documentray with tables.
 
 https://github.com/fairyshine/TableEE
+
+### - Chain-of-Tools
+Calling massive external tools efficiently during inference with frozen LLMs.
+
+https://github.com/fairyshine/Chain-of-Tools
 
 ## Dataset 📄
 ### - Seal-Tools
