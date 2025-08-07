@@ -3,17 +3,20 @@
 I am interested in machine learning and specialize in NLP and multimodality.
 
 # II Software 🎯
-### - FastMindAPI (Python)
+
+## Python🐍
+
+### - WillMindS.AI
+Efficiently set up your experimental environment with features such as logging, parameter management, code backup, and algorithms.
+
+https://github.com/fairyshine/WillMindS.AI
+
+### - FastMindAPI
 An easy-to-use, high-performance(?) backend for serving LLMs and other AI models, built on FastAPI.
 
 https://github.com/fairyshine/FastMindAPI
 
 # III Research 🔍
-## Package 🎉
-### - WillMindS.AI
-Efficiently set up your experimental environment with features such as logging, parameter management, code backup, and algorithms.
-
-https://github.com/fairyshine/WillMindS.AI
 
 ## Methodology 🚀
 ### - TableEE 
