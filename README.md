@@ -4,7 +4,7 @@ I am interested in machine learning and specialize in NLP and multimodality.
 
 # II Software 🎯
 
-## Python🐍
+## Python 🐍
 
 ### - WillMindS.AI
 Efficiently set up your experimental environment with features such as logging, parameter management, code backup, and algorithms.
